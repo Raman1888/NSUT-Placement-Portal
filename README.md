@@ -425,8 +425,8 @@ This project is created for educational purposes as a Database Management System
 
 ## Contributors
 
-- NSUT Student : Shreshth (2024UCM2334) , Akshat Jain (2024UCM3327) , Prince Shah (2024UCM2348)
-- DBMS Project - 2025
+- NSUT Student :    Raman Thukral 2024UIC3519
+- DBMS Project - 2026
 
 ---
 
